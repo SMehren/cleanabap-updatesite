@@ -3,10 +3,7 @@
    <feature url="features/de.mgmip.cleanabap.feature_1.0.0.202208230905.jar" id="de.mgmip.cleanabap.feature" version="1.0.0.202208230905">
       <category name="Abap"/>
    </feature>
-   <feature url="features/de.mgmip.cleanabap.feature_2.0.0.202208230919.jar" id="de.mgmip.cleanabap.feature" version="2.0.0.202208230919">
-      <category name="Abap"/>
-   </feature>
-   <feature url="features/de.mgmip.cleanabap.feature_3.0.0.202208230927.jar" id="de.mgmip.cleanabap.feature" version="3.0.0.202208230927">
+   <feature url="features/de.mgmip.cleanabap.feature_1.0.1.202208230936.jar" id="de.mgmip.cleanabap.feature" version="1.0.1.202208230936">
       <category name="Abap"/>
    </feature>
    <category-def name="Abap" label="Abap"/>
