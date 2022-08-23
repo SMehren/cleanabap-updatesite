@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.mgmip.cleanabap.feature_1.0.0.202208230905.jar" id="de.mgmip.cleanabap.feature" version="1.0.0.202208230905">
+      <category name="Abap"/>
+   </feature>
+   <category-def name="Abap" label="Abap"/>
+</site>
