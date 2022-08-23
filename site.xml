@@ -6,5 +6,8 @@
    <feature url="features/de.mgmip.cleanabap.feature_1.0.1.202208230936.jar" id="de.mgmip.cleanabap.feature" version="1.0.1.202208230936">
       <category name="Abap"/>
    </feature>
+   <feature url="features/de.mgmip.cleanabap.feature_1.0.2.202208231628.jar" id="de.mgmip.cleanabap.feature" version="1.0.2.202208231628">
+      <category name="Abap"/>
+   </feature>
    <category-def name="Abap" label="Abap"/>
 </site>
