@@ -9,6 +9,9 @@
    <feature url="features/de.mgmip.urlview.feature_1.0.0.beta.jar" id="de.mgmip.urlview.feature" version="1.0.0.beta">
       <category name="Abap"/>
    </feature>
+   <feature url="features/de.mgmip.urlview.feature_1.0.1.beta.jar" id="de.mgmip.urlview.feature" version="1.0.1.beta">
+      <category name="Abap"/>
+   </feature>
    <category-def name="Abap" label="Abap">
       <description>
          Abap Plugins
